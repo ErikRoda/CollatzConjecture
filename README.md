@@ -1,5 +1,4 @@
 # CollatzConjecture
-Collatz Conjecture Program
 
 An automatic Collatz Conjecture program.
 
